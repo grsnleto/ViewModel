@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BelajarViewModel</string>
+    <string name="headerJudul">Perhitungan Persegi Panjang</string>
+</resources>
